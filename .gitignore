@@ -42,9 +42,6 @@
 # Vscode project files
 .vscode
 
-# Javascript project files
-*.js
-
 # Binary files
 todo-list
 todo-list.exe
