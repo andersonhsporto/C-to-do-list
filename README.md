@@ -14,6 +14,12 @@ Before opening the to-do list, you need to build the backend and the interface. 
 npm install
 ```
 
+After that, you can run the backend with the following command:
+
+```bash
+npm start
+```
+
 To use this program, you need the gtk+3.0 library installed on your system. To install it on Ubuntu, run the following command:
 
 ```bash
