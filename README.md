@@ -34,6 +34,7 @@ Then, you can run the program with the following command:
 
 ## Very ugly screenshots
 
+![Captura de tela_2023-11-19_22-36-44](https://github.com/andersonhsporto/C-to-do-list/assets/47704550/bbb92513-c47d-4146-94d6-64ec59051a89)
 
 
 
