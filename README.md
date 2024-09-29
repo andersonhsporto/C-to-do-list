@@ -40,7 +40,7 @@ Then, you can run the program with the following command:
 
 ## Very ugly screenshots
 
-![image](https://github.com/user-attachments/assets/b39c6e1d-cdc7-4901-a21b-8fad0ae82dc6)
+![image](https://github.com/user-attachments/assets/2f44bdbf-7954-468d-af54-cdc31cbdd831)
 
 
 
